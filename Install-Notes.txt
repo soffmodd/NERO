@@ -1,0 +1,41 @@
+Instructions for acttivation
+
+IF YOU HAVE NERO INSTALLED:
+
+1. Start Nero General-CleanTool(included with keymaker)
+2. Restart computer
+
+INSTRUCTIONS:
+
+1. Run the install demo exe and install with the default demo serial number of
+
+"8M01-209M-AH6P-5UW0-WHAW-C53X-473X-79MH" when it pops up.
+
+2. Deselect all apps and install nero burning rom only, rest is junk.
+
+3. Once install is complete, exit installer. Don't run nero yet-make sure it's not running
+
+in tray/background.
+
+4. Run the keymaker and ignore malware notices, it's clean.
+
+5. Click License manager and select Remove all serials, close the License manager in the
+
+keygen
+
+6. Click Reset white list and then click Re-Detect Nero in the keygen
+
+7. Choose Nero9 and Retail single and generate a serial, if you installed other part of
+
+nero9 apps, you'll have to repeat steps 5 and 6 for each one.
+
+8. Once the key is on screen, click add to white list. Exit keymaker.
+
+9. Search for a file named NeroPatentActivation.exe, i'm running windows7 and it was
+
+located in \Program Files (x86)\Common Files\Nero\AdvrCntr4
+once the file is located, rename it to NeroPatentActivation.old, click yes if Windows warns
+
+you about changing the extension of the file.
+
+10. You're done and enjoy Nero 9.4.26.0
